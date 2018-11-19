@@ -1,0 +1,16 @@
+# This program will help you read book with auto scroll
+
+## Installation
+```
+go get github.com/PavelJland/scroll42
+```
+
+## Usage
+```
+scroll42 {scroll_size} {timeout_in_seconds}
+```
+
+## Example
+```
+scroll42 60 5
+```

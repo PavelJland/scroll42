@@ -2,9 +2,13 @@
 
 ## Installation
 1. [Install Go (Golang)](https://golang.org/doc/install)
-2. Install this repository with this command
+2. Install dependencies
 ```
-go get github.com/PavelJland/scroll42
+go get "github.com/go-vgo/robotgo"
+```
+3. Install this repository with this command
+```
+go get "github.com/PavelJland/scroll42"
 ```
 
 ## Usage
